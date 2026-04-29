@@ -1,2 +1,23 @@
-# superstore-data-analytics-project
-This project explores the Superstore dataset using Python and data analytics techniques. It covers data cleaning, exploratory data analysis (EDA), visualization, and business insights to identify sales trends, customer behavior, and profit drivers. The goal is to demonstrate practical skills in pandas, NumPy, matplotlib, seaborn.
+# Superstore Data Analytics Project
+
+This project demonstrates a basic data analytics workflow using a Superstore-style dataset.
+
+## Steps Included
+- Data Cleaning
+- Exploratory Data Analysis (Excel)
+- SQL Business Queries
+- KPI Identification
+- Basic Business Insights
+
+## Tools
+- Excel
+- SQL
+- Power BI (optional)
+
+## Project Structure
+superstore-data-analytics-project/
+  data/
+  excel_analysis/
+  sql/
+  dashboard/
+  report/
